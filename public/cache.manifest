@@ -1,6 +1,6 @@
 CACHE MANIFEST
 CACHE:
-public/index.html
+index.html
 includes/cat.jpg
 includes/script.js
 includes/style.css
